@@ -19,7 +19,7 @@ Microframework para montar un servidor web en nodejs
 
 **ejs**
 
-Montor de plantillas en javascript
+Motor de plantillas en javascript
 
 **Bootstrap**
 
