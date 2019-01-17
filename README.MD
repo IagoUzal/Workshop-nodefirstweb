@@ -1,5 +1,7 @@
 # Workshop - Nodejs web dinámica
 
+![Captura](src/public/img/captura.jpg)
+
 ## Descripción
 
 Aprender a crear un sitio web completamente desde cero utilizando Nodejs, y Express. este ejemplo plantea la creación de un sitio con una navegación dinamica de manera similar como se haría con PHP.
@@ -26,4 +28,5 @@ Framework CSS para grid, layout, nav, etc
 **Font Awesome**
 
 Fuente de iconos
+
 
